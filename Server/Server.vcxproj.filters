@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\source\server.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Process">
+      <UniqueIdentifier>{a6a80104-69a8-458a-a487-9450e1400ea8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Process.h">
+      <Filter>Process</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

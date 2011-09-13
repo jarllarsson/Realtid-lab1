@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="..\source\server.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Process.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{59F0A149-849B-4DD3-B3D6-BB962153BE35}</ProjectGuid>
     <RootNamespace>Realtidlab1</RootNamespace>
